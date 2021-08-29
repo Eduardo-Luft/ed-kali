@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ed-kali
+- 👋 Hi, I’m @ed-luft
 - 👀 I’m interested in learning C
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C projects
